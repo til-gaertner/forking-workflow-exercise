@@ -1,4 +1,6 @@
-# Ingredients
+# Recipe for Tacos al Pastor
+
+## Ingredients
 - 1 (5-pound) boneless pork shoulder roast (Boston butt), extra fat trimmed off
 - 2 teaspoons kosher salt
 - 1/2 teaspoon black pepper
@@ -15,7 +17,7 @@
 - 8 corn tortillas
 - Crumbled Cotija cheese, diced fresh pineapple, chopped fresh cilantro leaves, chopped red onions, diced avocado, optional toppings
 
-# Instructions
+## Instructions
 1. Gather the ingredients. 
 2. Rub the pork butt with salt and pepper.
 3. If you are using an Instant Pot, set the pot to sauté and brown the pork butt on all sides. If you are making the pork in a slow cooker, brown the pork in a large pan on the stove before placing it in the slow cooker. Set the pork aside while you prepare the marinade. 
